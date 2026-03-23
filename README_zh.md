@@ -104,7 +104,7 @@
 
 克隆仓库：
 
-    git clone https://github.com/YOUR_USERNAME/ai-society-sim.git
+    git clone https://github.com/yang-source-ai/ai-society-sim.git
     cd ai-society-sim
 
 可编辑安装：
@@ -249,8 +249,7 @@ MIT
 
 ## 为什么做这个项目
 
-我做这个项目，是因为我想认真思考一个问题：
 
-**如果 AI 极大扩展了生产力，那么决定社会走向崩溃、适应还是“大同”的关键变量到底是什么？**
+**我想知道，如果 AI 极大扩展了生产力，那么决定社会走向崩溃、适应还是“大同”的关键变量到底是什么？**
 
 如果你也对这个问题感兴趣，欢迎提 issue、给建议，或者直接 fork。
