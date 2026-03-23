@@ -1,0 +1,42 @@
+years: 15
+discussion_rounds: 2
+speakers_per_round: 5
+max_state_fields: 20
+output_dir: outputs
+
+initial_state:
+  year: 0
+  ai_capability: 0.10
+  total_productivity: 1.0
+  unemployment_rate: 0.06
+  wealth_inequality: 0.38
+  average_living_standard: 0.65
+  social_trust: 0.55
+  worker_power: 0.45
+  corporate_power: 0.55
+  government_effectiveness: 0.60
+  innovation_rate: 0.50
+  social_mobility: 0.50
+  cooperation_index: 0.40
+  public_mood: "cautiously optimistic about technology"
+  dominant_narrative: "AI will create more jobs than it destroys"
+  current_policy: "status quo"
+
+technology:
+  mode: hybrid
+  base_growth_rate: 0.025
+  innovation_feedback: 0.35
+  corporate_investment_feedback: 0.22
+  cooperation_feedback: 0.18
+  government_support_feedback: 0.12
+  public_acceptance_feedback: 0.08
+  productivity_base_growth: 0.02
+  productivity_ai_multiplier: 0.70
+  productivity_innovation_feedback: 0.15
+  productivity_cooperation_feedback: 0.08
+  max_capability: 1.0
+  narrate_shift: true
+
+ai_timeline:
+  10: "Near-AGI systems become a serious governance and labor issue."
+  15: "AGI-level productivity makes distribution the central political question."
